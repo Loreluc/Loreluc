@@ -7,7 +7,7 @@
 <h1 align="left">Connect 📣 with me:</h1>
 
 <p align="left">
-    <a href="www.linkedin.com/in/lorena-lucero">
+    <a href="https://www.linkedin.com/in/lorena-lucero/">
         <img align="center" src="https://img.shields.io/badge/linkedin-0077b5" alt="Loreluc" />
     </a>
 </p>
